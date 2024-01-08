@@ -29,5 +29,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Author
 
-Project was created by [Sandeep Rana](https://www.linkedin.com/in/its-sandeeprana/)
+Project was created by Ataur Rehman
 
